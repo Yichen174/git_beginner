@@ -1,0 +1,3 @@
+﻿skills/*/assets/*.docx
+**/__pycache__/
+*.pyc

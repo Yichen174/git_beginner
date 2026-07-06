@@ -1,0 +1,3 @@
+﻿display_name: Meeting Minutes DOCX
+short_description: Template-based Chinese meeting minutes.
+default_prompt: Generate a sell-side meeting minutes DOCX from raw notes using a sample Word document as the formatting template.
